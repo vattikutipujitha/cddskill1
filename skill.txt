@@ -1,0 +1,3 @@
+Welcome to Continuous delivery and devops 
+This is our first skill 
+Installation of git in windows
